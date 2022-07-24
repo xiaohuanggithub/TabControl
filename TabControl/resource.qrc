@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/主页.png</file>
+        <file>img/参数.png</file>
+        <file>img/日志.png</file>
+        <file>img/设置.png</file>
+        <file>img/调试.png</file>
+        <file>style.qss</file>
+    </qresource>
+</RCC>
